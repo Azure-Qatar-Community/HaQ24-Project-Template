@@ -1,0 +1,1 @@
+# HaQ24-Project-Template
